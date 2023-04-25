@@ -1,4 +1,5 @@
 #Swaping of numbers
+
 Swapping two number in C programming language means exchanging the values of two variables. 
 #algorithm 
 1.	Start
