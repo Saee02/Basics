@@ -3,7 +3,7 @@ Opretions
 C program to perform basic arithmetic operations of two numbers. 
 Numbers are assumed to be integers and will be entered by the user.
 
-Alorithm
+Algorithm
 1.	Start
 2.	Declare four integer variables first, second, add, subtract, and multiply.
 3.	Declare one float variable divide.
