@@ -1,7 +1,8 @@
-#Swaping of numbers
+Swaping of numbers
 
 Swapping two number in C programming language means exchanging the values of two variables. 
-#algorithm 
+
+Algorithm 
 1.	Start
 2.	Declare three double variables first, second, and temp.
 3.	Read the value of first from the user.
